@@ -20,6 +20,7 @@ A clean, minimal, and beginner-friendly Next.js starter template for fast projec
 - 🧩 **HeroUI v3** beautiful components
 - 📁 Clean and scalable folder structure
 - 🔧 **ESLint + Prettier** pre-configured
+- 🧩 **Not-Found.jsx, Error.jsx, Loading.jsx** pre-configured
 - 🚀 One-command project setup
 
 ---
